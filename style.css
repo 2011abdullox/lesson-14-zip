@@ -1,0 +1,14 @@
+.box {
+    width: 400px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid red;
+    margin: auto;
+}
+.box2{
+    width: 400px;
+    height: 200px;
+    background-color:rgb(0, 56, 209);
+    border: 5px solid red;
+    margin: auto;
+}
